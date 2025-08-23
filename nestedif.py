@@ -1,7 +1,7 @@
 x=2
 y=7
-if x==2:
-    if y==3:
+if x==7:
+    if y==4:
         print('hey hello')
     else:
         print('how are you')
