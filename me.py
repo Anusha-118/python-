@@ -1,2 +1,2 @@
 a=input()
-print(f'My name is ${a} ')
+print("My name is "+a)
